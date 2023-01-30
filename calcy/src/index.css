@@ -1,0 +1,14 @@
+/* preset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-weight: normal;
+}
+
+body {
+  margin: 100;
+  padding: 100;
+  background: linear-gradient(to right, #56ccf2, #2f80ed);
+ 
+}
